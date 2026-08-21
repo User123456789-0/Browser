@@ -1,5 +1,5 @@
 # Browser
-a whole new browser that can actuly let you choose where you want to install!
+a whole new browser that can actuly let you choose where you want to install! (ORGINAL COPY)
 # Download Link
 [All Releases](https://github.com/User123456789-0/Browser/releases)<br>
 [Letest non-dev version download](https://github.com/User123456789-0/Browser/releases/download/v0.1.9/AditBrowser-Setup-0.1.9.exe)<br>
